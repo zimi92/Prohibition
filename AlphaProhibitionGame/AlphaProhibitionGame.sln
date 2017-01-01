@@ -1,14 +1,23 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E61D3CD1-3EF0-C218-4F65-75387F914CBD}") = "AlphaProhibitionGame", "Assembly-CSharp.csproj", "{E093967F-9EB4-F617-DFB7-45C52CC9BF1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E093967F-9EB4-F617-DFB7-45C52CC9BF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E093967F-9EB4-F617-DFB7-45C52CC9BF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E093967F-9EB4-F617-DFB7-45C52CC9BF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E093967F-9EB4-F617-DFB7-45C52CC9BF1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
